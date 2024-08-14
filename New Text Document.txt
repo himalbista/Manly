@@ -1,0 +1,6 @@
+1. devui.io - for ui components
+2. npmjs.com - for different packages
+3. svgrepo.com - for svg images/logos
+4. reactrouter.com - for react router study
+5. yup and formic packages- for form validation and form handle
+6.  
